@@ -13,3 +13,7 @@ echo '<h1>Un titlu foarte interesant</h1>';
 
 $var = array(1, 2, 3);
 var_dump($var);
+
+echo '<h2>Titlu secundar</h2>';
+
+echo '<p>Ana are mere si pere</p>';
