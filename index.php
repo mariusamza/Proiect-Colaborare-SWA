@@ -7,3 +7,7 @@ Author: Marius Amza/ Testare
 Version: 1.0
 Author URI: https://swissacademy.eu
 */
+
+
+$var = array(1, 2, 3);
+var_dump($var);
