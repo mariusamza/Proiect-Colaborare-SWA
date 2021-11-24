@@ -11,3 +11,5 @@ Author URI: https://swissacademy.eu
 echo '<h1>Un titlu foarte interesant</h1>';
 
 echo '<h2>Titlu secundar</h2>';
+
+echo '<p>Ana are mere si pere</p>';
